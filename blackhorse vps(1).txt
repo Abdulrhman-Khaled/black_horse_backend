@@ -1,0 +1,35 @@
+ipserver: 62.171.185.66
+password: uDq4eVw8k2E1
+
+aaPanel:  https://62.171.185.66:31575/643fff73
+username: aizhqbza
+password: 0fa61f40
+
+devolpment path: /www/wwwroot/dev.handle-t.com/HandleT-BlackHorse
+production path: /www/wwwroot/backend.handle-t.com/HandleT-BlackHorse
+admin path:      /www/wwwroot/handle-t.com
+
+DEV_URL:    https://dev.handle-t.com/
+SERVER_URL: https://backend.handle-t.com/
+ADMIN_URL:  https://blackhorse.handle-t.com/
+
+ftp_host:     62.171.185.66
+ftp_username: ftp_handle_t_com
+ftp_password: 3XdzJab7m3mzrPb8
+
+otp_url:      https://app.smseg.com
+otp_username: Ss15883
+otp_password: ssL559120
+
+mongo connection: mongodb://blackhorse:GyedbzL8n87ian6w@62.171.185.66:27017/?authSource=blackhorse
+
+https://documenter.getpostman.com/view/36491777/2sAXjJ6DG9
+
+api: mongodb://test_black:iG4cDr7C7nCSmmc4@62.171.185.66:27017/test_black
+mongodb://test_black:iG4cDr7C7nCSmmc4@62.171.185.66:27017/?authSource=test_black
+
+
+inventory:
+mongodb+srv://azaki:123@cluster0.56xkote.mongodb.net/inventory?retryWrites=true&w=majority
+
+

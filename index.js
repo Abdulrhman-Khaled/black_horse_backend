@@ -264,7 +264,7 @@ IO.on('connection', (socket) => {
   });
 });
 
-server.listen(port, '0.0.0.0', async () => {
+server.listen(port, async () => {
   await connectDB();
-  console.log(`listening on http://localhost:${port}`);
+  //console.log(`listening on http://localhost:${port}`);
 });
